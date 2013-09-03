@@ -1,3 +1,6 @@
+P.S. The name EA or the Logo appearing in the begenning of the Game are respective property of the company. The author
+is not associated with those companies in anyway. 
+
 Asteroids
 =========
 
